@@ -1,4 +1,4 @@
-# discord-moderation-panel-concept
+# Discord Moderation Panel Concept (0.0.1)
 A basic concept page for discord. Possibly to become a moderation panel...
 
 
